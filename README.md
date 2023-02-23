@@ -4,9 +4,9 @@
 This script automates the task of making a DjangoProject. A Django project involves a variety of tasks such as, Doing Template Inheritance in all templates, Applying migrations, Creating static files folder, Updating settings.py (with static root, StaticFiles_Dir, templates, media root and many more), Adding templates, Creating different directories, Updating urls and Importing important modules, so I made this script to automate this task.
 
 ## Installation
-1.Clone this repository by using ``` git clone https://github.com/Hatim315/DjangoProjectStarter ```<br>
-2.Run ```pip install -r requirements.txt ```<br>
-3.Enjoy!!<br>
+1. Clone this repository by using ``` git clone https://github.com/Hatim315/DjangoProjectStarter ```<br>
+2. Run ```pip install -r requirements.txt ```<br>
+3. Enjoy!!<br>
 
 ## Usage
 This script can be executed in two ways:

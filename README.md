@@ -7,9 +7,9 @@ This script automates the task of making a DjangoProject. A Django project invol
 This script can be executed in two ways:
 
 ### 1.Using arguments
-    You can use arguments to specif different variables in this script.For example:
+    You can use arguments to specify different variables in this script.For example:
      
-    If you run  ``` python DjangoProjectStarter.py -h ``` .It will give list of arguments to use with this file.These are:
+    If you run  ``` python DjangoProjectStarter.py -h ``` .It will give a list of all arguments to use with this script. These are:
     
     -p  For specifying name of the project
     -a  For specifying name of the app 

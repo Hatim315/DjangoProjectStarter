@@ -13,7 +13,7 @@ This script can be executed in two ways:
     
     -p  For specifying name of the project
     -a  For specifying name of the app 
-    -t  For adding templates (You can skip this process if you do not want to add any template yet.)
+    -t  For adding templates (You can skip this if you do not want to add any template yet.)
     
     Execution: ``` python DjangoProjectStarter.py -p <Name of the Project> -a <Name of the app> -t <For adding templates> ```
     

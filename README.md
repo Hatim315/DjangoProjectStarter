@@ -37,5 +37,5 @@ This script can be executed in two ways:
 ## Errors
   If you face any kind of error. You can raise an issue and specify it, so that I can fix it.
 ## Conclusion
-   This script is created to make the life of a Django Developer more easy as well as to make myself familiarize with different modules in Python. If you have any more ideas to add in this script then feel free to contribute.
+   This script is created to make the life of Django Developers more easy as well as to make myself familiarize with different modules in Python. If you have any more ideas to add in this script then feel free to contribute.
     

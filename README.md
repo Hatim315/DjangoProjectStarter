@@ -31,5 +31,5 @@ This script can be executed in two ways:
     After that script will be run normally.
 
 ## Conclusion
-   This Project was made by me because I used to spend most of the time doing same repetitve tasks while working on django project, so I decided to automate this project.
+   This Project was made by me because I used to spend most of the time doing same repetitve tasks while working on Django Projects, so I decided to automate this process.
     

@@ -31,5 +31,5 @@ This script can be executed in two ways:
     After that the script will be run normally.
 
 ## Conclusion
-   This script was to make life of a Django Developer more easy as well as to make myself familiarize with different modules in Python. If you have any more ideas to add in this script then feel free to contribute.
+   This script is created to make life of a Django Developer more easy as well as to make myself familiarize with different modules in Python. If you have any more ideas to add in this script then feel free to contribute.
     

@@ -3,4 +3,8 @@ This script automates the task of making a DjangoProject.A Django project involv
 
 
 ## Usage
+This script can be executed in two ways:
 
+### 1.Using arguments
+    You can use arguments to specif different variables in this script.For example:
+    

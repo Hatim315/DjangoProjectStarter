@@ -28,8 +28,8 @@ This script can be executed in two ways:
     Templates:<templates names>
     
     ```
-    After that script will be run normally.
+    After that the script will be run normally.
 
 ## Conclusion
-   This Project was made by me because I used to spend most of the time doing same repetitve tasks while working on Django Projects, so I decided to automate this process.
+   This script was to make life of a Django Developer more easy as well as to make myself familiarize with different modules in Python. If you have any more ideas to add in this script then feel free to contribute.
     

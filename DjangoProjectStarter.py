@@ -123,13 +123,13 @@ if __name__=="__main__":
         if args.t:
            ADD_templates=[args.t]
         else:
-           ADD_templates=["n"]
+           ADD_templates=None
     else:
         nameProject=input("Specify a unique name for the project: ")
         nameApp=input("Name of the app built in this project:")
         print("Base.html and About.html will be made automatically. You can give additional templates by inputting them with space in between or ou can write no or n")
         ADD_templates=input("Templates: ").split(" ")
-        if  ADD_templates[0]="":
+        if  ADD_templates[0]=="":
             ADD_templates=None
 
     start(nameProject,nameApp,ADD_TEMPLATES=ADD_templates)

@@ -24,7 +24,7 @@ This script can be executed in two ways:
     ```
     Specify a unique name for the project:<project name>
     Name of the app built in this project:<app name>
-    Base.html and About.html will be made automatically. You can give additional templates by inputting them with space in between or ou can write no or n
+    Base.html and About.html will be made automatically. You can give additional templates by inputting them with space in between or You can press enter without entering anything if you do not want to add anything.
     Templates:<templates names>
     
     ```

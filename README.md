@@ -15,6 +15,7 @@ This script can be executed in two ways:
     -a  For specifying name of the app 
     -t  For adding templates
     
+    Execution: ``` python DjangoProjectStarter.py -p <Name of the Project> -a <Name of the app> -t <For adding templates> ```
     
 ### 2.By Input
     

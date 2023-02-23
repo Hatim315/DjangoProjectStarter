@@ -38,6 +38,8 @@ def start(nameProject,nameApp,ADD_TEMPLATES=None):
     Settings_data=  ["MEDIA_ROOT = os.path.join(BASE_DIR,'media')\n","MEDIA_URL = '/media/'\n","STATIC_ROOT =  os.path.join(BASE_DIR,'assets')\n","STATIC_URL = '/static/'\n","STATICFILES_DIRS = [ BASE_DIR / 'static']"]
     if ADD_TEMPLATES!=None:
        template=["index.html","about.html"]+ADD_TEMPLATES
+    else:
+        template=["index.html","about.html"]
     PATH_to_Settings=f"{nameProject}/settings.py"
     PATH_to_Urls=f"{nameProject}/urls.py"
     PATH_to_Views=f"{nameApp}/views.py"
@@ -127,7 +129,7 @@ if __name__=="__main__":
         nameApp=input("Name of the app built in this project:")
         print("Base.html and About.html will be made automatically. You can give additional templates by inputting them with space in between or ou can write no or n")
         ADD_templates=input("Templates: ").split(" ")
-    if  ADD_templates in ["n","N","no","No"] :
-        ADD_templates=None
+        if  ADD_templates[0]="":
+            ADD_templates=None
 
     start(nameProject,nameApp,ADD_TEMPLATES=ADD_templates)

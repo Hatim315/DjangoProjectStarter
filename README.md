@@ -17,7 +17,7 @@ This script can be executed in two ways:
     
     Execution: ``` python DjangoProjectStarter.py -p <Name of the Project> -a <Name of the app> -t <For adding templates> ```
     
-### 2.By Input
+### 2.By Direct Input
     
     You can just directly run the script like ```python DjangoProjectStarter.py ``` , and it will ask the above variables(name of the project , app and templates) in the form of user input.
     For Instance;

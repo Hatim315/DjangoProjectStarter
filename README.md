@@ -7,7 +7,14 @@ This script can be executed in two ways:
 
 ### 1.Using arguments
     You can use arguments to specif different variables in this script.For example:
-    ```python 
-    while i<100:pass
+    ```python
+    
+    
+    
+    i=0
+    while i<100:
+        print(i)
+        
+        
     ```
     

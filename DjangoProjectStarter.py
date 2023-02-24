@@ -121,7 +121,7 @@ if __name__=="__main__":
         nameProject=args.p
         nameApp=args.a
         if args.t:
-           ADD_templates=[args.t]
+           ADD_templates=(args.t).split(" ")
         else:
            ADD_templates=None
     else:

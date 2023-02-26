@@ -45,7 +45,7 @@ def start(nameProject,nameApp,ADD_TEMPLATES=None):
     PATH_to_Views=f"{nameApp}/views.py"
     
     if os.getcwd()!=Target_Directory:
-         os.chdir(Target_Directory)#Change director to target location
+         os.chdir(Target_Directory)#Change directory to target location
 
     List_Dirs=os.listdir()
 

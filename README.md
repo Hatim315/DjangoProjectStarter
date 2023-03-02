@@ -37,5 +37,5 @@ This script can be executed in two ways:
 ## Errors
   If you face any kind of error, you can raise an issue and specify it, so that I can fix it.
 ## Conclusion
-   This script is created for automating basic django things. If you have any more ideas to add in this script then feel free to contribute.
+   This script is created for automating basic django tasks which are performed while starting a project. If you have any more ideas to add in this script then feel free to contribute.
     
